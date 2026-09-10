@@ -1,0 +1,266 @@
+- repo: aosc
+  srcname: runtime-common/edencommon
+  binname: edencommon
+  visiblename: edencommon
+  version: 2026.06.22.00
+  origversion: null
+  status: outdated
+  summary: Support library for Watchman and Eden projects
+  maintainers:
+    - fallback-mnt-aosc@repology
+  categories:
+    - libs
+- repo: aur
+  srcname: edencommon
+  binname: edencommon
+  visiblename: edencommon
+  version: 2025.10.20.00
+  origversion: 2025.10.20.00-1
+  status: outdated
+  summary: Shared library for Watchman and Eden projects
+  maintainers:
+    - fallback-mnt-aur@repology
+  licenses:
+    - MIT
+- repo: aur
+  srcname: edencommon-git
+  binname: edencommon-git
+  visiblename: edencommon-git
+  version: 2025.06.02.00
+  origversion: 2025.06.02.00+r1649+g6c93ae382-1
+  status: rolling
+  summary: Shared library for Watchman and Eden projects
+  maintainers:
+    - envolution@aur
+  licenses:
+    - MIT
+- repo: gentoo
+  srcname: dev-cpp/edencommon
+  visiblename: dev-cpp/edencommon
+  version: 2023.06.19.00
+  origversion: null
+  status: legacy
+  summary: Shared library for Watchman and Eden projects
+  maintainers:
+    - sin-ack@protonmail.com
+    - proxy-maint@gentoo.org
+  licenses:
+    - MIT
+  categories:
+    - dev-cpp
+- repo: gentoo
+  srcname: dev-cpp/edencommon
+  visiblename: dev-cpp/edencommon
+  version: 2024.11.04.00
+  origversion: null
+  status: legacy
+  summary: Shared library for Watchman and Eden projects
+  maintainers:
+    - sin-ack@protonmail.com
+    - proxy-maint@gentoo.org
+  licenses:
+    - MIT
+  categories:
+    - dev-cpp
+- repo: gentoo
+  srcname: dev-cpp/edencommon
+  visiblename: dev-cpp/edencommon
+  version: 2025.04.14.00
+  origversion: null
+  status: outdated
+  summary: Shared library for Watchman and Eden projects
+  maintainers:
+    - sin-ack@protonmail.com
+    - proxy-maint@gentoo.org
+  licenses:
+    - MIT
+  categories:
+    - dev-cpp
+- repo: homebrew
+  srcname: edencommon
+  visiblename: edencommon
+  version: 2026.07.27.00
+  origversion: null
+  status: newest
+  summary: Shared library for Watchman and Eden projects
+- repo: homebrew
+  srcname: edencommon
+  visiblename: edencommon
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Shared library for Watchman and Eden projects
+- repo: liguros_stable
+  srcname: dev-cpp/edencommon
+  visiblename: dev-cpp/edencommon
+  version: 2024.11.04.00
+  origversion: null
+  status: legacy
+  summary: Shared library for Watchman and Eden projects
+  maintainers:
+    - sin-ack@protonmail.com
+    - proxy-maint@gentoo.org
+  licenses:
+    - MIT
+  categories:
+    - dev-cpp
+- repo: liguros_stable
+  srcname: dev-cpp/edencommon
+  visiblename: dev-cpp/edencommon
+  version: 2025.04.14.00
+  origversion: null
+  status: outdated
+  summary: Shared library for Watchman and Eden projects
+  maintainers:
+    - sin-ack@protonmail.com
+    - proxy-maint@gentoo.org
+  licenses:
+    - MIT
+  categories:
+    - dev-cpp
+- repo: liguros_stable
+  srcname: dev-cpp/edencommon
+  visiblename: dev-cpp/edencommon
+  version: 2023.06.19.00
+  origversion: null
+  status: legacy
+  summary: Shared library for Watchman and Eden projects
+  maintainers:
+    - sin-ack@protonmail.com
+    - proxy-maint@gentoo.org
+  licenses:
+    - MIT
+  categories:
+    - dev-cpp
+- repo: liguros_develop
+  srcname: dev-cpp/edencommon
+  visiblename: dev-cpp/edencommon
+  version: 2024.11.04.00
+  origversion: null
+  status: legacy
+  summary: Shared library for Watchman and Eden projects
+  maintainers:
+    - sin-ack@protonmail.com
+    - proxy-maint@gentoo.org
+  licenses:
+    - MIT
+  categories:
+    - dev-cpp
+- repo: liguros_develop
+  srcname: dev-cpp/edencommon
+  visiblename: dev-cpp/edencommon
+  version: 2025.04.14.00
+  origversion: null
+  status: outdated
+  summary: Shared library for Watchman and Eden projects
+  maintainers:
+    - sin-ack@protonmail.com
+    - proxy-maint@gentoo.org
+  licenses:
+    - MIT
+  categories:
+    - dev-cpp
+- repo: liguros_develop
+  srcname: dev-cpp/edencommon
+  visiblename: dev-cpp/edencommon
+  version: 2023.06.19.00
+  origversion: null
+  status: legacy
+  summary: Shared library for Watchman and Eden projects
+  maintainers:
+    - sin-ack@protonmail.com
+    - proxy-maint@gentoo.org
+  licenses:
+    - MIT
+  categories:
+    - dev-cpp
+- repo: macports
+  srcname: devel/edencommon
+  binname: edencommon
+  visiblename: edencommon
+  version: 2026.07.27.00
+  origversion: null
+  status: newest
+  summary: Shared library for Watchman and Eden projects
+  maintainers:
+    - barracuda156@github
+  licenses:
+    - BSD
+  categories:
+    - devel
+- repo: nix_stable_24_05
+  srcname: edencommon
+  visiblename: edencommon
+  version: 2024.03.11.00
+  origversion: null
+  status: outdated
+  summary: A shared library for Meta's source control filesystem tools (EdenFS and Watchman)
+  maintainers:
+    - nixpkgs@kylesferrazza.com
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: edencommon
+  visiblename: edencommon
+  version: 2024.11.18.00
+  origversion: null
+  status: outdated
+  summary: Shared library for Meta's source control filesystem tools (EdenFS and Watchman)
+  maintainers:
+    - nixpkgs@kylesferrazza.com
+    - nixpkgs@emily.moe
+    - techknowlogick@gitea.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: edencommon
+  visiblename: edencommon
+  version: 2025.04.21.00
+  origversion: null
+  status: outdated
+  summary: Shared library for Meta's source control filesystem tools (EdenFS and Watchman)
+  maintainers:
+    - nixpkgs@kylesferrazza.com
+    - nixpkgs@emily.moe
+    - techknowlogick@gitea.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: edencommon
+  visiblename: edencommon
+  version: 2025.10.13.00
+  origversion: null
+  status: outdated
+  summary: Shared library for Meta's source control filesystem tools (EdenFS and Watchman)
+  maintainers:
+    - nixpkgs@kylesferrazza.com
+    - nixpkgs@emily.moe
+    - techknowlogick@gitea.com
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: edencommon
+  visiblename: edencommon
+  version: 2026.01.19.00
+  origversion: null
+  status: outdated
+  summary: Shared library for Meta's source control filesystem tools (EdenFS and Watchman)
+  maintainers:
+    - nixpkgs@kylesferrazza.com
+    - nixpkgs@emily.moe
+    - techknowlogick@gitea.com
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: edencommon
+  visiblename: edencommon
+  version: 2026.07.27.00
+  origversion: null
+  status: newest
+  summary: Shared library for Meta's source control filesystem tools (EdenFS and Watchman)
+  maintainers:
+    - nixpkgs@kylesferrazza.com
+    - nixpkgs@emily.moe
+    - techknowlogick@gitea.com
+  licenses:
+    - MIT
