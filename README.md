@@ -12,28 +12,7 @@ Shared library for Watchman and Eden projects.
 x install edencommon
 ```
 
-## Source
-
-- **Upstream**: <https://github.com/facebookexperimental/edencommon>
-- **License**: MIT
-
-## Popularity
-
-- **Stars**: 13 · **Forks**: 19 · **Open issues**: 6 · **Contributors**: 118
-
-## Totals (cumulative)
-
-- **Releases**: 0 · **Merged PRs**: 2 · **Open PRs**: 1 · **Closed issues**: 2 · **Open issues**: 4 · **Commits**: 2363
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 57 |
-| 90d | 2026-06-12 | 0 | 0 | 1 | 0 | 1 | 134 |
-| 360d | 2025-09-15 | 0 | 0 | 1 | 0 | 2 | 564 |
-
-## Code size
+## Code insight
 
 Total: **32,060** lines of code across **237** files in the top 5 languages.
 
@@ -45,13 +24,46 @@ Total: **32,060** lines of code across **237** files in the top 5 languages.
 | CMake | 2,233 | 998 | 357 | 35 |
 | Yaml | 589 | 30 | 97 | 6 |
 
+## Source
+
+- **Upstream**: <https://github.com/facebookexperimental/edencommon>
+- **License**: MIT
+
+## Popularity
+
+- **Stars**: 13 · **Forks**: 19 · **Open issues**: 6 · **Contributors**: 118
+
+## Totals (cumulative)
+
+- **Releases**: 0 · **Merged PRs**: 2 · **Open PRs**: 1 · **Closed issues**: 2 · **Open issues**: 4 · **Commits**: 2364
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 58 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 90 |
+| 90d | 2026-06-12 | 0 | 0 | 1 | 0 | 1 | 135 |
+| last180d | 2026-03-14 | 0 | 0 | 1 | 0 | 1 | 316 |
+| 360d | 2025-09-15 | 0 | 0 | 1 | 0 | 2 | 565 |
+| last720d | 2024-09-20 | 0 | 0 | 1 | 0 | 4 | 1001 |
+
+## Distribution status
+
+Reported by **21** distros on [repology.org](https://repology.org/project/edencommon). **3** are ✅ on the latest upstream release, **10** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `2026.07.27.00` | ✅ latest |
+| Nix unstable | `2026.07.27.00` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for edencommon lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `edencommon` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/edencommon.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/edencommon.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T06:16:35Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:36:07Z._
