@@ -35,27 +35,18 @@ Total: **32,215** lines of code across **237** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 2 · **Open PRs**: 1 · **Closed issues**: 2 · **Open issues**: 4 · **Commits**: 2373
+- **Releases**: 0 · **Merged PRs**: 2 · **Open PRs**: 1 · **Closed issues**: 2 · **Open issues**: 4 · **Commits**: 2374
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 0 | 0 | 0 | 58 |
-| last60d | 2026-07-15 | 0 | 0 | 0 | 0 | 0 | 93 |
-| 90d | 2026-06-15 | 0 | 0 | 1 | 0 | 1 | 136 |
-| last180d | 2026-03-17 | 0 | 0 | 1 | 0 | 1 | 317 |
-| 360d | 2025-09-18 | 0 | 0 | 1 | 0 | 2 | 565 |
-| last720d | 2024-09-23 | 0 | 0 | 1 | 0 | 4 | 1004 |
-
-## Distribution status
-
-Reported by **21** distros on [repology.org](https://repology.org/project/edencommon). **3** are ✅ on the latest upstream release, **10** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `2026.07.27.00` | ✅ latest |
-| Nix unstable | `2026.07.27.00` | ✅ latest |
+| 30d | 2026-08-15 | 0 | 0 | 0 | 0 | 0 | 59 |
+| last60d | 2026-07-16 | 0 | 0 | 0 | 0 | 0 | 94 |
+| 90d | 2026-06-16 | 0 | 0 | 1 | 0 | 1 | 137 |
+| last180d | 2026-03-18 | 0 | 0 | 1 | 0 | 1 | 318 |
+| 360d | 2025-09-19 | 0 | 0 | 1 | 0 | 2 | 566 |
+| last720d | 2024-09-24 | 0 | 0 | 1 | 0 | 4 | 1004 |
 
 ## Improve this data
 
@@ -66,4 +57,4 @@ Install metadata for edencommon lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T06:16:41Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T06:31:00Z._
