@@ -4,7 +4,7 @@
 
 Shared library for Watchman and Eden projects. 
 
-![edencommon](https://repo.x-cmd.io/edencommon.svg)
+[![x-cmd/install — edencommon Code Quality Monitoring Repo Card](https://repo.x-cmd.io/edencommon.svg)](https://x-cmd.com/install/edencommon)
 
 ## Install
 
@@ -35,18 +35,18 @@ Total: **32,864** lines of code across **243** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 2 · **Open PRs**: 1 · **Closed issues**: 2 · **Open issues**: 4 · **Commits**: 2406
+- **Releases**: 0 · **Merged PRs**: 2 · **Open PRs**: 1 · **Closed issues**: 2 · **Open issues**: 4 · **Commits**: 2410
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 91 |
-| last60d | 2026-07-20 | 0 | 0 | 0 | 0 | 0 | 126 |
-| 90d | 2026-06-20 | 0 | 0 | 1 | 0 | 0 | 169 |
-| last180d | 2026-03-22 | 0 | 0 | 1 | 0 | 1 | 350 |
-| 360d | 2025-09-23 | 0 | 0 | 1 | 0 | 2 | 598 |
-| last720d | 2024-09-28 | 0 | 0 | 1 | 0 | 4 | 1030 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 83 |
+| last60d | 2026-07-22 | 0 | 0 | 0 | 0 | 0 | 119 |
+| 90d | 2026-06-22 | 0 | 0 | 1 | 0 | 0 | 156 |
+| last180d | 2026-03-24 | 0 | 0 | 1 | 0 | 1 | 347 |
+| 360d | 2025-09-25 | 0 | 0 | 1 | 0 | 2 | 595 |
+| last720d | 2024-09-30 | 0 | 0 | 1 | 0 | 4 | 1033 |
 
 ## Improve this data
 
@@ -57,4 +57,4 @@ Install metadata for edencommon lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:19:27Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:26:24Z._
