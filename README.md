@@ -35,18 +35,18 @@ Total: **32,865** lines of code across **243** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 2 · **Open PRs**: 1 · **Closed issues**: 2 · **Open issues**: 4 · **Commits**: 2418
+- **Releases**: 0 · **Merged PRs**: 2 · **Open PRs**: 1 · **Closed issues**: 2 · **Open issues**: 4 · **Commits**: 2419
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 0 | 0 | 0 | 0 | 0 | 91 |
-| last60d | 2026-07-26 | 0 | 0 | 0 | 0 | 0 | 127 |
-| 90d | 2026-06-26 | 0 | 0 | 0 | 0 | 0 | 164 |
-| last180d | 2026-03-28 | 0 | 0 | 1 | 0 | 1 | 355 |
-| 360d | 2025-09-29 | 0 | 0 | 1 | 0 | 2 | 603 |
-| last720d | 2024-10-04 | 0 | 0 | 1 | 0 | 4 | 1037 |
+| 30d | 2026-08-26 | 0 | 0 | 0 | 0 | 0 | 92 |
+| last60d | 2026-07-27 | 0 | 0 | 0 | 0 | 0 | 128 |
+| 90d | 2026-06-27 | 0 | 0 | 0 | 0 | 0 | 165 |
+| last180d | 2026-03-29 | 0 | 0 | 1 | 0 | 1 | 356 |
+| 360d | 2025-09-30 | 0 | 0 | 1 | 0 | 2 | 604 |
+| last720d | 2024-10-05 | 0 | 0 | 1 | 0 | 4 | 1037 |
 
 ## Improve this data
 
@@ -57,4 +57,4 @@ Install metadata for edencommon lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T05:54:14Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T06:13:26Z._
