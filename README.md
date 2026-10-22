@@ -14,14 +14,14 @@ x install edencommon
 
 ## Code insight
 
-Total: **33,533** lines of code across **248** files in the top 5 languages.
+Total: **33,537** lines of code across **248** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Cpp | 12,667 | 1,654 | 2,383 | 90 |
 | Python | 10,987 | 1,134 | 1,790 | 39 |
 | CHeader | 6,761 | 3,852 | 1,671 | 74 |
-| CMake | 2,316 | 1,018 | 365 | 39 |
+| CMake | 2,318 | 1,018 | 366 | 39 |
 | Yaml | 589 | 30 | 97 | 6 |
 
 ## Source
@@ -35,18 +35,18 @@ Total: **33,533** lines of code across **248** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 2 · **Open PRs**: 1 · **Closed issues**: 2 · **Open issues**: 4 · **Commits**: 2484
+- **Releases**: 0 · **Merged PRs**: 2 · **Open PRs**: 1 · **Closed issues**: 2 · **Open issues**: 4 · **Commits**: 2487
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 0 | 0 | 0 | 0 | 0 | 65 |
-| last60d | 2026-08-22 | 0 | 0 | 0 | 0 | 0 | 161 |
-| 90d | 2026-07-23 | 0 | 0 | 0 | 0 | 0 | 198 |
-| last180d | 2026-04-24 | 0 | 0 | 1 | 0 | 1 | 355 |
-| 360d | 2025-10-26 | 0 | 0 | 1 | 0 | 2 | 643 |
-| last720d | 2024-10-31 | 0 | 0 | 1 | 0 | 4 | 1058 |
+| 30d | 2026-09-22 | 0 | 0 | 0 | 0 | 0 | 68 |
+| last60d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 164 |
+| 90d | 2026-07-24 | 0 | 0 | 0 | 0 | 0 | 201 |
+| last180d | 2026-04-25 | 0 | 0 | 1 | 0 | 1 | 358 |
+| 360d | 2025-10-27 | 0 | 0 | 1 | 0 | 2 | 646 |
+| last720d | 2024-11-01 | 0 | 0 | 1 | 0 | 4 | 1060 |
 
 ## Improve this data
 
@@ -57,4 +57,4 @@ Install metadata for edencommon lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T05:55:44Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T05:56:36Z._
