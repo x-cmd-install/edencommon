@@ -14,14 +14,14 @@ x install edencommon
 
 ## Code insight
 
-Total: **33,537** lines of code across **248** files in the top 5 languages.
+Total: **33,573** lines of code across **247** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Cpp | 12,667 | 1,654 | 2,383 | 90 |
 | Python | 10,987 | 1,134 | 1,790 | 39 |
-| CHeader | 6,761 | 3,852 | 1,671 | 74 |
-| CMake | 2,318 | 1,018 | 366 | 39 |
+| CHeader | 6,761 | 3,852 | 1,670 | 74 |
+| CMake | 2,354 | 1,034 | 362 | 38 |
 | Yaml | 589 | 30 | 97 | 6 |
 
 ## Source
@@ -35,18 +35,27 @@ Total: **33,537** lines of code across **248** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 2 · **Open PRs**: 1 · **Closed issues**: 2 · **Open issues**: 4 · **Commits**: 2487
+- **Releases**: 0 · **Merged PRs**: 2 · **Open PRs**: 1 · **Closed issues**: 2 · **Open issues**: 4 · **Commits**: 2500
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 0 | 0 | 0 | 68 |
-| last60d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 164 |
-| 90d | 2026-07-24 | 0 | 0 | 0 | 0 | 0 | 201 |
-| last180d | 2026-04-25 | 0 | 0 | 1 | 0 | 1 | 358 |
-| 360d | 2025-10-27 | 0 | 0 | 1 | 0 | 2 | 646 |
-| last720d | 2024-11-01 | 0 | 0 | 1 | 0 | 4 | 1060 |
+| 30d | 2026-09-23 | 0 | 0 | 0 | 0 | 0 | 81 |
+| last60d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 177 |
+| 90d | 2026-07-25 | 0 | 0 | 0 | 0 | 0 | 214 |
+| last180d | 2026-04-26 | 0 | 0 | 1 | 0 | 1 | 371 |
+| 360d | 2025-10-28 | 0 | 0 | 1 | 0 | 2 | 659 |
+| last720d | 2024-11-02 | 0 | 0 | 1 | 0 | 4 | 1071 |
+
+## Distribution status
+
+Reported by **21** distros on [repology.org](https://repology.org/project/edencommon). **1** are ✅ on the latest upstream release, **12** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `2026.10.19.00` | ✅ latest |
+| Nix unstable | `2026.07.27.00` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -57,4 +66,4 @@ Install metadata for edencommon lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:56:36Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T06:01:34Z._
