@@ -14,12 +14,12 @@ x install edencommon
 
 ## Code insight
 
-Total: **33,573** lines of code across **247** files in the top 5 languages.
+Total: **33,598** lines of code across **247** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Cpp | 12,667 | 1,654 | 2,383 | 90 |
-| Python | 10,987 | 1,134 | 1,790 | 39 |
+| Python | 11,012 | 1,139 | 1,791 | 39 |
 | CHeader | 6,761 | 3,852 | 1,670 | 74 |
 | CMake | 2,354 | 1,034 | 362 | 38 |
 | Yaml | 589 | 30 | 97 | 6 |
@@ -35,18 +35,18 @@ Total: **33,573** lines of code across **247** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 2 · **Open PRs**: 1 · **Closed issues**: 2 · **Open issues**: 4 · **Commits**: 2500
+- **Releases**: 0 · **Merged PRs**: 2 · **Open PRs**: 1 · **Closed issues**: 2 · **Open issues**: 4 · **Commits**: 2503
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 0 | 0 | 0 | 0 | 0 | 81 |
-| last60d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 177 |
-| 90d | 2026-07-25 | 0 | 0 | 0 | 0 | 0 | 214 |
-| last180d | 2026-04-26 | 0 | 0 | 1 | 0 | 1 | 371 |
-| 360d | 2025-10-28 | 0 | 0 | 1 | 0 | 2 | 659 |
-| last720d | 2024-11-02 | 0 | 0 | 1 | 0 | 4 | 1071 |
+| 30d | 2026-09-24 | 0 | 0 | 0 | 0 | 0 | 84 |
+| last60d | 2026-08-25 | 0 | 0 | 0 | 0 | 0 | 180 |
+| 90d | 2026-07-26 | 0 | 0 | 0 | 0 | 0 | 217 |
+| last180d | 2026-04-27 | 0 | 0 | 1 | 0 | 1 | 374 |
+| 360d | 2025-10-29 | 0 | 0 | 1 | 0 | 2 | 662 |
+| last720d | 2024-11-03 | 0 | 0 | 1 | 0 | 4 | 1073 |
 
 ## Distribution status
 
@@ -66,4 +66,4 @@ Install metadata for edencommon lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T06:01:34Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T05:48:25Z._
