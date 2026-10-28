@@ -79,7 +79,7 @@
 - repo: homebrew
   srcname: edencommon
   visiblename: edencommon
-  version: 2026.10.19.00
+  version: 2026.10.26.00
   origversion: null
   status: newest
   summary: Shared library for Watchman and Eden projects
