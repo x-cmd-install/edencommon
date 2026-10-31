@@ -14,14 +14,14 @@ x install edencommon
 
 ## Code insight
 
-Total: **34,065** lines of code across **249** files in the top 5 languages.
+Total: **34,069** lines of code across **249** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Cpp | 12,828 | 1,655 | 2,416 | 90 |
+| Cpp | 12,829 | 1,655 | 2,417 | 90 |
 | Python | 11,050 | 1,147 | 1,800 | 40 |
 | CHeader | 6,797 | 3,887 | 1,677 | 74 |
-| CMake | 2,586 | 1,120 | 376 | 39 |
+| CMake | 2,589 | 1,129 | 376 | 39 |
 | Yaml | 589 | 30 | 97 | 6 |
 
 ## Source
@@ -35,18 +35,18 @@ Total: **34,065** lines of code across **249** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 2 · **Open PRs**: 1 · **Closed issues**: 2 · **Open issues**: 4 · **Commits**: 2529
+- **Releases**: 0 · **Merged PRs**: 2 · **Open PRs**: 1 · **Closed issues**: 2 · **Open issues**: 4 · **Commits**: 2532
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 0 | 0 | 0 | 0 | 0 | 92 |
-| last60d | 2026-08-31 | 0 | 0 | 0 | 0 | 0 | 189 |
-| 90d | 2026-08-01 | 0 | 0 | 0 | 0 | 0 | 231 |
-| last180d | 2026-05-03 | 0 | 0 | 1 | 0 | 1 | 391 |
-| 360d | 2025-11-04 | 0 | 0 | 1 | 0 | 2 | 681 |
-| last720d | 2024-11-09 | 0 | 0 | 1 | 0 | 4 | 1094 |
+| 30d | 2026-10-01 | 0 | 0 | 0 | 0 | 0 | 95 |
+| last60d | 2026-09-01 | 0 | 0 | 0 | 0 | 0 | 192 |
+| 90d | 2026-08-02 | 0 | 0 | 0 | 0 | 0 | 234 |
+| last180d | 2026-05-04 | 0 | 0 | 1 | 0 | 1 | 394 |
+| 360d | 2025-11-05 | 0 | 0 | 1 | 0 | 2 | 684 |
+| last720d | 2024-11-10 | 0 | 0 | 1 | 0 | 4 | 1096 |
 
 ## Distribution status
 
@@ -66,4 +66,4 @@ Install metadata for edencommon lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T07:03:32Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T06:49:31Z._
