@@ -14,15 +14,15 @@ x install edencommon
 
 ## Code insight
 
-Total: **34,086** lines of code across **249** files in the top 5 languages.
+Total: **34,594** lines of code across **251** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Cpp | 12,829 | 1,655 | 2,417 | 90 |
-| Python | 11,050 | 1,147 | 1,800 | 40 |
-| CHeader | 6,798 | 3,891 | 1,677 | 74 |
-| CMake | 2,605 | 1,141 | 375 | 39 |
-| Yaml | 589 | 30 | 97 | 6 |
+| Cpp | 12,967 | 1,661 | 2,453 | 91 |
+| Python | 11,175 | 1,151 | 1,807 | 40 |
+| CHeader | 7,074 | 3,914 | 1,732 | 75 |
+| CMake | 2,607 | 1,141 | 375 | 39 |
+| Yaml | 556 | 30 | 97 | 6 |
 
 ## Source
 
@@ -31,22 +31,22 @@ Total: **34,086** lines of code across **249** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 13 · **Forks**: 20 · **Open issues**: 6 · **Contributors**: 123
+- **Stars**: 13 · **Forks**: 20 · **Open issues**: 6 · **Contributors**: 124
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 2 · **Open PRs**: 1 · **Closed issues**: 2 · **Open issues**: 4 · **Commits**: 2543
+- **Releases**: 0 · **Merged PRs**: 2 · **Open PRs**: 1 · **Closed issues**: 2 · **Open issues**: 4 · **Commits**: 2550
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 0 | 0 | 0 | 0 | 0 | 89 |
-| last60d | 2026-09-03 | 0 | 0 | 0 | 0 | 0 | 183 |
-| 90d | 2026-08-04 | 0 | 0 | 0 | 0 | 0 | 241 |
-| last180d | 2026-05-06 | 0 | 0 | 1 | 0 | 1 | 374 |
-| 360d | 2025-11-07 | 0 | 0 | 1 | 0 | 2 | 680 |
-| last720d | 2024-11-12 | 0 | 0 | 1 | 0 | 3 | 1107 |
+| 30d | 2026-10-04 | 0 | 0 | 0 | 0 | 0 | 96 |
+| last60d | 2026-09-04 | 0 | 0 | 0 | 0 | 0 | 190 |
+| 90d | 2026-08-05 | 0 | 0 | 0 | 0 | 0 | 248 |
+| last180d | 2026-05-07 | 0 | 0 | 1 | 0 | 1 | 381 |
+| 360d | 2025-11-08 | 0 | 0 | 1 | 0 | 2 | 687 |
+| last720d | 2024-11-13 | 0 | 0 | 1 | 0 | 3 | 1112 |
 
 ## Distribution status
 
@@ -66,4 +66,4 @@ Install metadata for edencommon lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T07:27:20Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T08:24:15Z._
