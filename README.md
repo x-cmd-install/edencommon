@@ -31,22 +31,22 @@ Total: **34,848** lines of code across **252** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 13 · **Forks**: 20 · **Open issues**: 6 · **Contributors**: 125
+- **Stars**: 13 · **Forks**: 20 · **Open issues**: 7 · **Contributors**: 125
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 2 · **Open PRs**: 1 · **Closed issues**: 2 · **Open issues**: 4 · **Commits**: 2587
+- **Releases**: 0 · **Merged PRs**: 2 · **Open PRs**: 1 · **Closed issues**: 2 · **Open issues**: 5 · **Commits**: 2588
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 0 | 0 | 0 | 0 | 0 | 87 |
-| last60d | 2026-09-16 | 0 | 0 | 0 | 0 | 0 | 171 |
-| 90d | 2026-08-17 | 0 | 0 | 0 | 0 | 0 | 269 |
-| last180d | 2026-05-19 | 0 | 0 | 1 | 0 | 1 | 388 |
-| 360d | 2025-11-20 | 0 | 0 | 1 | 0 | 2 | 701 |
-| last720d | 2024-11-25 | 0 | 0 | 1 | 0 | 3 | 1135 |
+| 30d | 2026-10-17 | 0 | 0 | 0 | 0 | 1 | 88 |
+| last60d | 2026-09-17 | 0 | 0 | 0 | 0 | 1 | 172 |
+| 90d | 2026-08-18 | 0 | 0 | 0 | 0 | 1 | 270 |
+| last180d | 2026-05-20 | 0 | 0 | 1 | 0 | 2 | 389 |
+| 360d | 2025-11-21 | 0 | 0 | 1 | 0 | 3 | 702 |
+| last720d | 2024-11-26 | 0 | 0 | 1 | 0 | 4 | 1135 |
 
 ## Distribution status
 
@@ -66,4 +66,4 @@ Install metadata for edencommon lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T08:06:37Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T08:33:47Z._
