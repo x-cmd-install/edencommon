@@ -14,14 +14,14 @@ x install edencommon
 
 ## Code insight
 
-Total: **34,881** lines of code across **252** files in the top 5 languages.
+Total: **35,228** lines of code across **254** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Cpp | 12,965 | 1,659 | 2,451 | 91 |
+| Cpp | 13,085 | 1,675 | 2,471 | 92 |
 | Python | 11,394 | 1,166 | 1,833 | 41 |
-| CHeader | 7,079 | 3,919 | 1,733 | 75 |
-| CMake | 2,675 | 1,154 | 378 | 39 |
+| CHeader | 7,083 | 3,923 | 1,733 | 75 |
+| CMake | 2,898 | 1,209 | 402 | 40 |
 | Yaml | 553 | 30 | 97 | 6 |
 
 ## Source
@@ -31,22 +31,22 @@ Total: **34,881** lines of code across **252** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 13 · **Forks**: 20 · **Open issues**: 7 · **Contributors**: 125
+- **Stars**: 13 · **Forks**: 20 · **Open issues**: 7 · **Contributors**: 127
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 2 · **Open PRs**: 1 · **Closed issues**: 2 · **Open issues**: 5 · **Commits**: 2599
+- **Releases**: 0 · **Merged PRs**: 2 · **Open PRs**: 1 · **Closed issues**: 2 · **Open issues**: 5 · **Commits**: 2607
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 0 | 0 | 0 | 1 | 70 |
-| last60d | 2026-09-24 | 0 | 0 | 0 | 0 | 1 | 166 |
-| 90d | 2026-08-25 | 0 | 0 | 0 | 0 | 1 | 266 |
-| last180d | 2026-05-27 | 0 | 0 | 1 | 0 | 2 | 391 |
-| 360d | 2025-11-28 | 0 | 0 | 1 | 0 | 3 | 703 |
-| last720d | 2024-12-03 | 0 | 0 | 1 | 0 | 4 | 1141 |
+| 30d | 2026-10-25 | 0 | 0 | 0 | 0 | 1 | 78 |
+| last60d | 2026-09-25 | 0 | 0 | 0 | 0 | 1 | 174 |
+| 90d | 2026-08-26 | 0 | 0 | 0 | 0 | 1 | 274 |
+| last180d | 2026-05-28 | 0 | 0 | 1 | 0 | 2 | 399 |
+| 360d | 2025-11-29 | 0 | 0 | 1 | 0 | 3 | 711 |
+| last720d | 2024-12-04 | 0 | 0 | 1 | 0 | 4 | 1148 |
 
 ## Distribution status
 
@@ -66,4 +66,4 @@ Install metadata for edencommon lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T09:16:34Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T11:49:33Z._
