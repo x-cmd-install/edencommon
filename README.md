@@ -14,13 +14,13 @@ x install edencommon
 
 ## Code insight
 
-Total: **35,310** lines of code across **254** files in the top 5 languages.
+Total: **35,380** lines of code across **254** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Cpp | 13,158 | 1,686 | 2,484 | 92 |
+| Cpp | 13,228 | 1,693 | 2,488 | 92 |
 | Python | 11,394 | 1,166 | 1,833 | 41 |
-| CHeader | 7,083 | 3,929 | 1,733 | 75 |
+| CHeader | 7,083 | 3,934 | 1,732 | 75 |
 | CMake | 2,898 | 1,209 | 402 | 40 |
 | Yaml | 562 | 30 | 97 | 6 |
 
@@ -31,22 +31,22 @@ Total: **35,310** lines of code across **254** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 13 · **Forks**: 20 · **Open issues**: 7 · **Contributors**: 128
+- **Stars**: 14 · **Forks**: 20 · **Open issues**: 7 · **Contributors**: 128
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 3 · **Open PRs**: 1 · **Closed issues**: 2 · **Open issues**: 5 · **Commits**: 2613
+- **Releases**: 0 · **Merged PRs**: 3 · **Open PRs**: 1 · **Closed issues**: 2 · **Open issues**: 5 · **Commits**: 2617
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 1 | 0 | 0 | 1 | 84 |
-| last60d | 2026-09-26 | 0 | 1 | 0 | 0 | 1 | 180 |
-| 90d | 2026-08-27 | 0 | 1 | 0 | 0 | 1 | 280 |
-| last180d | 2026-05-29 | 0 | 1 | 1 | 0 | 2 | 405 |
-| 360d | 2025-11-30 | 0 | 1 | 1 | 0 | 3 | 717 |
-| last720d | 2024-12-05 | 0 | 1 | 1 | 0 | 4 | 1152 |
+| 30d | 2026-10-27 | 0 | 1 | 0 | 0 | 1 | 88 |
+| last60d | 2026-09-27 | 0 | 1 | 0 | 0 | 1 | 184 |
+| 90d | 2026-08-28 | 0 | 1 | 0 | 0 | 1 | 284 |
+| last180d | 2026-05-30 | 0 | 1 | 1 | 0 | 2 | 409 |
+| 360d | 2025-12-01 | 0 | 1 | 1 | 0 | 3 | 721 |
+| last720d | 2024-12-06 | 0 | 1 | 1 | 0 | 4 | 1154 |
 
 ## Improve this data
 
@@ -57,4 +57,4 @@ Install metadata for edencommon lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T10:23:38Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T09:16:43Z._
