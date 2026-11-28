@@ -1,0 +1,149 @@
+about:
+  description: "Shared library for Watchman and Eden projects. "
+  license: MIT
+  homepage: 
+  head: e80198a
+  archived: false
+  latestVersion: ""
+  latestRelease: ""
+  latestPrerelease: ""
+  collectedAt: 2026-11-28T08:32:29Z
+timeline:
+  created: 2021-10-11
+  lastCommit: 2026-11-27
+  lastVersion: 
+  lastRelease: 
+  lastPrerelease: 
+popularity:
+  star: 14
+  watcher: 11
+  fork: 20
+  release: 0
+  contributor: 128
+  pullRequest: 27
+  issue: 7
+language:
+  C++: 903729
+  Python: 516258
+  CMake: 161476
+  Jinja: 4921
+  C: 3479
+totalBytes: 1589863
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 0
+    mergedPR: 1
+    openPR: 0
+    closedIssue: 0
+    openIssue: 1
+    commit: 91
+  last60d:
+    since: 2026-09-29
+    release: 0
+    mergedPR: 1
+    openPR: 0
+    closedIssue: 0
+    openIssue: 1
+    commit: 187
+  last90d:
+    since: 2026-08-30
+    release: 0
+    mergedPR: 1
+    openPR: 0
+    closedIssue: 0
+    openIssue: 1
+    commit: 287
+  last180d:
+    since: 2026-06-01
+    release: 0
+    mergedPR: 1
+    openPR: 1
+    closedIssue: 0
+    openIssue: 2
+    commit: 412
+  last360d:
+    since: 2025-12-03
+    release: 0
+    mergedPR: 1
+    openPR: 1
+    closedIssue: 0
+    openIssue: 3
+    commit: 724
+  last720d:
+    since: 2024-12-08
+    release: 0
+    mergedPR: 1
+    openPR: 1
+    closedIssue: 0
+    openIssue: 4
+    commit: 1152
+total:
+  release: 0
+  mergedPR: 3
+  openPR: 1
+  closedIssue: 2
+  openIssue: 5
+  commit: 2620
+---
+path: /home/runner/.x-repo/github.com/facebookexperimental/edencommon
+collectedAt: 2026-11-28T08:32:30Z
+loc:
+  Cpp:
+    code: 13228
+    comments: 1693
+    blanks: 2488
+    files: 92
+  Python:
+    code: 11394
+    comments: 1166
+    blanks: 1833
+    files: 41
+  CHeader:
+    code: 7083
+    comments: 3934
+    blanks: 1732
+    files: 75
+  CMake:
+    code: 2898
+    comments: 1209
+    blanks: 402
+    files: 40
+  Yaml:
+    code: 562
+    comments: 30
+    blanks: 97
+    files: 6
+  Jinja2:
+    code: 152
+    comments: 0
+    blanks: 23
+    files: 1
+  C:
+    code: 49
+    comments: 40
+    blanks: 13
+    files: 1
+  Autoconf:
+    code: 14
+    comments: 9
+    blanks: 6
+    files: 2
+  Markdown:
+    code: 0
+    comments: 291
+    blanks: 94
+    files: 5
+  Text:
+    code: 0
+    comments: 1
+    blanks: 0
+    files: 1
+total:
+  code: 35389
+  comments: 8373
+  blanks: 6690
+  files: 264
+---
+
+---

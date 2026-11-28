@@ -2,12 +2,12 @@ about:
   description: "Shared library for Watchman and Eden projects. "
   license: MIT
   homepage: 
-  head: 003f9ea
+  head: e80198a
   archived: false
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-11-27T10:29:15Z
+  collectedAt: 2026-11-28T08:32:29Z
 timeline:
   created: 2021-10-11
   lastCommit: 2026-11-27
@@ -31,63 +31,63 @@ language:
 totalBytes: 1589863
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 0
     mergedPR: 1
     openPR: 0
     closedIssue: 0
     openIssue: 1
-    commit: 90
+    commit: 91
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 0
     mergedPR: 1
     openPR: 0
     closedIssue: 0
     openIssue: 1
-    commit: 186
+    commit: 187
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 0
     mergedPR: 1
     openPR: 0
     closedIssue: 0
     openIssue: 1
-    commit: 286
+    commit: 287
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 0
     mergedPR: 1
     openPR: 1
     closedIssue: 0
     openIssue: 2
-    commit: 411
+    commit: 412
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 0
     mergedPR: 1
     openPR: 1
     closedIssue: 0
     openIssue: 3
-    commit: 723
+    commit: 724
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 0
     mergedPR: 1
     openPR: 1
     closedIssue: 0
     openIssue: 4
-    commit: 1153
+    commit: 1152
 total:
   release: 0
   mergedPR: 3
   openPR: 1
   closedIssue: 2
   openIssue: 5
-  commit: 2619
+  commit: 2620
 ---
 path: /home/runner/.x-repo/github.com/facebookexperimental/edencommon
-collectedAt: 2026-11-27T10:29:16Z
+collectedAt: 2026-11-28T08:32:30Z
 loc:
   Cpp:
     code: 13228
